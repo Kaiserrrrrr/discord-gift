@@ -1,4 +1,4 @@
-# discord-gift-rickroll v1 
+# discordgift-rickroll v1 
 > A discord embed link website that has a intergrated rickroll feature, only to be used as a practical joke.
 # Links
 1. [discord-gift.ga](https://discord-gift.ga) (discord homepage)
