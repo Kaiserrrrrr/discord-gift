@@ -3,4 +3,4 @@
 # Links
 > [discord-gift.ga](https://discord-gift.ga)
 > [discord-gift.ga/rickroll](https://discord-gift.ga/rickroll)
-> [discord-gift.ga/4eHHxkAbAu7ptPc7]9https://discord-gift.ga/4eHHxkAbAu7ptPc7) (rickroll)
+> [discord-gift.ga/4eHHxkAbAu7ptPc7](https://discord-gift.ga/4eHHxkAbAu7ptPc7) (rickroll)
